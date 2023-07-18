@@ -1,0 +1,37 @@
+﻿<?xml version="1.0"?>
+<!-- <!DOCTYPE Chapters SYSTEM "matroskachapters.dtd"> -->
+<Chapters>
+  <EditionEntry>
+    <EditionUID>6226701967822093535</EditionUID>
+    <ChapterAtom>
+      <ChapterUID>7569471256428176542</ChapterUID>
+      <ChapterTimeStart>00:00:00.000000000</ChapterTimeStart>
+      <ChapterDisplay>
+        <ChapterString>Logo</ChapterString>
+        <ChapterLanguage>por</ChapterLanguage>
+        <ChapterCountry>br</ChapterCountry>
+        <ChapLanguageIETF>pt-BR</ChapLanguageIETF>
+      </ChapterDisplay>
+    </ChapterAtom>
+    <ChapterAtom>
+      <ChapterUID>14290086530279452061</ChapterUID>
+      <ChapterTimeStart>00:00:19.019000000</ChapterTimeStart>
+      <ChapterDisplay>
+        <ChapterString>Filme</ChapterString>
+        <ChapterLanguage>por</ChapterLanguage>
+        <ChapterCountry>br</ChapterCountry>
+        <ChapLanguageIETF>pt-BR</ChapLanguageIETF>
+      </ChapterDisplay>
+    </ChapterAtom>
+    <ChapterAtom>
+      <ChapterUID>363298533454811064</ChapterUID>
+      <ChapterTimeStart>00:37:18.236000000</ChapterTimeStart>
+      <ChapterDisplay>
+        <ChapterString>Créditos</ChapterString>
+        <ChapterLanguage>por</ChapterLanguage>
+        <ChapterCountry>br</ChapterCountry>
+        <ChapLanguageIETF>pt-BR</ChapLanguageIETF>
+      </ChapterDisplay>
+    </ChapterAtom>
+  </EditionEntry>
+</Chapters>
