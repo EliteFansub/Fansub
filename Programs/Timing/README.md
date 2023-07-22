@@ -1,4 +1,4 @@
-For windows, extract `scxvid.exe` from [SCXvid/scxvid_exe_file.zip](/SCXvid/scxvid_exe_file.zip) and put in `SCXvid` folder
+For windows, extract `scxvid.exe` from [SCXvid/scxvid_exe_file.zip](Programs/Timing/SCXvid/scxvid_exe_file.zip) and put in `SCXvid` folder
 
 For more, visit:
 - [https://yukisubs.wordpress.com/guides/](https://yukisubs.wordpress.com/guides/)
