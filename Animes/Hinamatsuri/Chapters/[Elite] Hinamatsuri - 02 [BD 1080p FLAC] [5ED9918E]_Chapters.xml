@@ -1,0 +1,61 @@
+﻿<?xml version="1.0"?>
+<!-- <!DOCTYPE Chapters SYSTEM "matroskachapters.dtd"> -->
+<Chapters>
+  <EditionEntry>
+    <EditionUID>7201260785167038496</EditionUID>
+    <ChapterAtom>
+      <ChapterTimeStart>00:00:00.000000000</ChapterTimeStart>
+      <ChapterUID>14564942558079101296</ChapterUID>
+      <ChapterDisplay>
+        <ChapterString>Intro</ChapterString>
+        <ChapLanguageIETF>pt</ChapLanguageIETF>
+        <ChapterLanguage>por</ChapterLanguage>
+      </ChapterDisplay>
+    </ChapterAtom>
+    <ChapterAtom>
+      <ChapterTimeStart>00:01:05.001000000</ChapterTimeStart>
+      <ChapterUID>6087047738487243936</ChapterUID>
+      <ChapterDisplay>
+        <ChapterString>Abertura - Distance</ChapterString>
+        <ChapLanguageIETF>pt</ChapLanguageIETF>
+        <ChapterLanguage>por</ChapterLanguage>
+      </ChapterDisplay>
+    </ChapterAtom>
+    <ChapterAtom>
+      <ChapterTimeStart>00:02:35.001000000</ChapterTimeStart>
+      <ChapterUID>2157668010051516793</ChapterUID>
+      <ChapterDisplay>
+        <ChapterString>Parte A</ChapterString>
+        <ChapLanguageIETF>pt</ChapLanguageIETF>
+        <ChapterLanguage>por</ChapterLanguage>
+      </ChapterDisplay>
+    </ChapterAtom>
+    <ChapterAtom>
+      <ChapterTimeStart>00:12:28.011000000</ChapterTimeStart>
+      <ChapterUID>14079019483174721150</ChapterUID>
+      <ChapterDisplay>
+        <ChapterString>Parte B</ChapterString>
+        <ChapLanguageIETF>pt</ChapLanguageIETF>
+        <ChapterLanguage>por</ChapterLanguage>
+      </ChapterDisplay>
+    </ChapterAtom>
+    <ChapterAtom>
+      <ChapterTimeStart>00:22:06.013000000</ChapterTimeStart>
+      <ChapterUID>5204516698953488432</ChapterUID>
+      <ChapterDisplay>
+        <ChapterString>Encerramento - Sake to Ikura to 893 to Musume</ChapterString>
+        <ChapLanguageIETF>pt</ChapLanguageIETF>
+        <ChapterLanguage>por</ChapterLanguage>
+      </ChapterDisplay>
+    </ChapterAtom>
+    <ChapterAtom>
+      <ChapterTimeStart>00:23:36.013000000</ChapterTimeStart>
+      <ChapterUID>15483651104984696623</ChapterUID>
+      <ChapterDisplay>
+        <ChapterString>Prévia</ChapterString>
+        <ChapLanguageIETF>pt</ChapLanguageIETF>
+        <ChapterLanguage>por</ChapterLanguage>
+      </ChapterDisplay>
+    </ChapterAtom>
+  </EditionEntry>
+</Chapters>

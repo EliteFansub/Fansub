@@ -1,0 +1,43 @@
+﻿<?xml version="1.0"?>
+<!-- <!DOCTYPE Chapters SYSTEM "matroskachapters.dtd"> -->
+<Chapters>
+  <EditionEntry>
+    <EditionUID>16619115137682419070</EditionUID>
+    <ChapterAtom>
+      <ChapterTimeStart>00:00:00.000000000</ChapterTimeStart>
+      <ChapterUID>13708818008625890891</ChapterUID>
+      <ChapterDisplay>
+        <ChapterString>Parte A</ChapterString>
+        <ChapLanguageIETF>pt</ChapLanguageIETF>
+        <ChapterLanguage>por</ChapterLanguage>
+      </ChapterDisplay>
+    </ChapterAtom>
+    <ChapterAtom>
+      <ChapterTimeStart>00:08:30.939000000</ChapterTimeStart>
+      <ChapterUID>9027993889138265914</ChapterUID>
+      <ChapterDisplay>
+        <ChapterString>Parte B</ChapterString>
+        <ChapLanguageIETF>pt</ChapLanguageIETF>
+        <ChapterLanguage>por</ChapterLanguage>
+      </ChapterDisplay>
+    </ChapterAtom>
+    <ChapterAtom>
+      <ChapterTimeStart>00:20:31.909000000</ChapterTimeStart>
+      <ChapterUID>8516311023769945478</ChapterUID>
+      <ChapterDisplay>
+        <ChapterString>ED - Sake to Ikura to 893 to Musume</ChapterString>
+        <ChapLanguageIETF>pt</ChapLanguageIETF>
+        <ChapterLanguage>por</ChapterLanguage>
+      </ChapterDisplay>
+    </ChapterAtom>
+    <ChapterAtom>
+      <ChapterTimeStart>00:22:01.879000000</ChapterTimeStart>
+      <ChapterUID>7813090633765946802</ChapterUID>
+      <ChapterDisplay>
+        <ChapterString>Epílogo</ChapterString>
+        <ChapLanguageIETF>pt</ChapLanguageIETF>
+        <ChapterLanguage>por</ChapterLanguage>
+      </ChapterDisplay>
+    </ChapterAtom>
+  </EditionEntry>
+</Chapters>

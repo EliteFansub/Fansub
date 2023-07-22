@@ -1,0 +1,63 @@
+﻿<?xml version="1.0"?>
+<!-- <!DOCTYPE Chapters SYSTEM "matroskachapters.dtd"> -->
+<Chapters>
+  <EditionEntry>
+    <EditionFlagHidden>0</EditionFlagHidden>
+    <EditionFlagDefault>0</EditionFlagDefault>
+    <EditionUID>15583</EditionUID>
+    <ChapterAtom>
+      <ChapterUID>1249</ChapterUID>
+      <ChapterTimeStart>00:00:00.000000000</ChapterTimeStart>
+      <ChapterDisplay>
+        <ChapterString>Prólogo</ChapterString>
+        <ChapterLanguage>por</ChapterLanguage>
+        <ChapLanguageIETF>pt</ChapLanguageIETF>
+      </ChapterDisplay>
+    </ChapterAtom>
+    <ChapterAtom>
+      <ChapterUID>69013</ChapterUID>
+      <ChapterTimeStart>00:01:08.026000000</ChapterTimeStart>
+      <ChapterDisplay>
+        <ChapterString>Abertura - Distance</ChapterString>
+        <ChapterLanguage>por</ChapterLanguage>
+        <ChapLanguageIETF>pt</ChapLanguageIETF>
+      </ChapterDisplay>
+    </ChapterAtom>
+    <ChapterAtom>
+      <ChapterUID>158983</ChapterUID>
+      <ChapterTimeStart>00:02:38.033000000</ChapterTimeStart>
+      <ChapterDisplay>
+        <ChapterString>Parte A</ChapterString>
+        <ChapterLanguage>por</ChapterLanguage>
+        <ChapLanguageIETF>pt</ChapLanguageIETF>
+      </ChapterDisplay>
+    </ChapterAtom>
+    <ChapterAtom>
+      <ChapterUID>830983</ChapterUID>
+      <ChapterTimeStart>00:13:50.038000000</ChapterTimeStart>
+      <ChapterDisplay>
+        <ChapterString>Parte B</ChapterString>
+        <ChapterLanguage>por</ChapterLanguage>
+        <ChapLanguageIETF>pt</ChapLanguageIETF>
+      </ChapterDisplay>
+    </ChapterAtom>
+    <ChapterAtom>
+      <ChapterUID>1326933</ChapterUID>
+      <ChapterTimeStart>00:22:05.991000000</ChapterTimeStart>
+      <ChapterDisplay>
+        <ChapterString>Encerramento - Sake to Ikura to 893 to Musume</ChapterString>
+        <ChapterLanguage>por</ChapterLanguage>
+        <ChapLanguageIETF>pt</ChapLanguageIETF>
+      </ChapterDisplay>
+    </ChapterAtom>
+    <ChapterAtom>
+      <ChapterUID>1416943</ChapterUID>
+      <ChapterTimeStart>00:23:35.998000000</ChapterTimeStart>
+      <ChapterDisplay>
+        <ChapterString>Prévia</ChapterString>
+        <ChapterLanguage>por</ChapterLanguage>
+        <ChapLanguageIETF>pt</ChapLanguageIETF>
+      </ChapterDisplay>
+    </ChapterAtom>
+  </EditionEntry>
+</Chapters>

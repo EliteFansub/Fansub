@@ -1,0 +1,52 @@
+﻿<?xml version="1.0"?>
+<!-- <!DOCTYPE Chapters SYSTEM "matroskachapters.dtd"> -->
+<Chapters>
+  <EditionEntry>
+    <EditionUID>9431841230710213735</EditionUID>
+    <ChapterAtom>
+      <ChapterTimeStart>00:00:00.000000000</ChapterTimeStart>
+      <ChapterUID>16075365281695085047</ChapterUID>
+      <ChapterDisplay>
+        <ChapterString>Prólogo</ChapterString>
+        <ChapLanguageIETF>pt</ChapLanguageIETF>
+        <ChapterLanguage>por</ChapterLanguage>
+      </ChapterDisplay>
+    </ChapterAtom>
+    <ChapterAtom>
+      <ChapterTimeStart>00:00:57.057000000</ChapterTimeStart>
+      <ChapterUID>9799812851461149629</ChapterUID>
+      <ChapterDisplay>
+        <ChapterString>Abertura - Distance</ChapterString>
+        <ChapLanguageIETF>und</ChapLanguageIETF>
+        <ChapterLanguage>und</ChapterLanguage>
+      </ChapterDisplay>
+    </ChapterAtom>
+    <ChapterAtom>
+      <ChapterTimeStart>00:02:27.022000000</ChapterTimeStart>
+      <ChapterUID>14154959608090272360</ChapterUID>
+      <ChapterDisplay>
+        <ChapterString>Parte A</ChapterString>
+        <ChapLanguageIETF>pt</ChapLanguageIETF>
+        <ChapterLanguage>por</ChapterLanguage>
+      </ChapterDisplay>
+    </ChapterAtom>
+    <ChapterAtom>
+      <ChapterTimeStart>00:11:53.004000000</ChapterTimeStart>
+      <ChapterUID>306926808084871279</ChapterUID>
+      <ChapterDisplay>
+        <ChapterString>Parte B - Epílogo</ChapterString>
+        <ChapLanguageIETF>pt</ChapLanguageIETF>
+        <ChapterLanguage>por</ChapterLanguage>
+      </ChapterDisplay>
+    </ChapterAtom>
+    <ChapterAtom>
+      <ChapterTimeStart>00:22:11.080000000</ChapterTimeStart>
+      <ChapterUID>11705505148932462267</ChapterUID>
+      <ChapterDisplay>
+        <ChapterString>Encerramento - Hajimete no Kimochi</ChapterString>
+        <ChapLanguageIETF>pt</ChapLanguageIETF>
+        <ChapterLanguage>por</ChapterLanguage>
+      </ChapterDisplay>
+    </ChapterAtom>
+  </EditionEntry>
+</Chapters>

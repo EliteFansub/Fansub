@@ -1,0 +1,61 @@
+﻿<?xml version="1.0"?>
+<!-- <!DOCTYPE Chapters SYSTEM "matroskachapters.dtd"> -->
+<Chapters>
+  <EditionEntry>
+    <EditionUID>17154701007376506909</EditionUID>
+    <ChapterAtom>
+      <ChapterTimeStart>00:00:00.000000000</ChapterTimeStart>
+      <ChapterUID>5978068165266593120</ChapterUID>
+      <ChapterDisplay>
+        <ChapterString>Intro</ChapterString>
+        <ChapLanguageIETF>pt</ChapLanguageIETF>
+        <ChapterLanguage>por</ChapterLanguage>
+      </ChapterDisplay>
+    </ChapterAtom>
+    <ChapterAtom>
+      <ChapterTimeStart>00:00:30.000000000</ChapterTimeStart>
+      <ChapterUID>10300405301990631957</ChapterUID>
+      <ChapterDisplay>
+        <ChapterString>Abertura - Distance</ChapterString>
+        <ChapLanguageIETF>pt</ChapLanguageIETF>
+        <ChapterLanguage>por</ChapterLanguage>
+      </ChapterDisplay>
+    </ChapterAtom>
+    <ChapterAtom>
+      <ChapterTimeStart>00:01:59.970000000</ChapterTimeStart>
+      <ChapterUID>2659194207635197534</ChapterUID>
+      <ChapterDisplay>
+        <ChapterString>Parte A</ChapterString>
+        <ChapLanguageIETF>pt</ChapLanguageIETF>
+        <ChapterLanguage>por</ChapterLanguage>
+      </ChapterDisplay>
+    </ChapterAtom>
+    <ChapterAtom>
+      <ChapterTimeStart>00:12:12.250000000</ChapterTimeStart>
+      <ChapterUID>13943002373502059069</ChapterUID>
+      <ChapterDisplay>
+        <ChapterString>Parte B</ChapterString>
+        <ChapLanguageIETF>pt</ChapLanguageIETF>
+        <ChapterLanguage>por</ChapterLanguage>
+      </ChapterDisplay>
+    </ChapterAtom>
+    <ChapterAtom>
+      <ChapterTimeStart>00:22:06.090000000</ChapterTimeStart>
+      <ChapterUID>6537253668642499328</ChapterUID>
+      <ChapterDisplay>
+        <ChapterString>Encerramento - Shashinchou </ChapterString>
+        <ChapLanguageIETF>pt</ChapLanguageIETF>
+        <ChapterLanguage>por</ChapterLanguage>
+      </ChapterDisplay>
+    </ChapterAtom>
+    <ChapterAtom>
+      <ChapterTimeStart>00:23:36.100000000</ChapterTimeStart>
+      <ChapterUID>1888051222491857550</ChapterUID>
+      <ChapterDisplay>
+        <ChapterString>Prévia</ChapterString>
+        <ChapLanguageIETF>pt</ChapLanguageIETF>
+        <ChapterLanguage>por</ChapterLanguage>
+      </ChapterDisplay>
+    </ChapterAtom>
+  </EditionEntry>
+</Chapters>
