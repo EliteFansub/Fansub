@@ -8,7 +8,7 @@ REM * FFmpeg: http://ffmpeg.zeranoe.com/builds/
 echo Creating Keyframes...
 set video="%~1"
 set video2="%~n1"
-ffmpeg -i input.mkv -f yuv4mpegpipe -vf scale=640:360 -pix_fmt yuv420p -vsync drop -loglevel quiet - | SCXvid/SCXvid.exe input_keyframes.txt
+ffmpeg -i input.mkv -f yuv4mpegpipe -vf scale=640:360 -pix_fmt yuv420p -vsync drop -loglevel quiet - | SCXvid/scxvid.exe input_keyframes.txt
 echo Done
 
 REM pause
