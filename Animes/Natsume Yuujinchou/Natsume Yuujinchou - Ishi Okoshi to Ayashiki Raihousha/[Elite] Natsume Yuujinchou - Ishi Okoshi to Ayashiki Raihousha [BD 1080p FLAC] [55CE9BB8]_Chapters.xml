@@ -1,0 +1,52 @@
+﻿<?xml version="1.0"?>
+<!-- <!DOCTYPE Chapters SYSTEM "matroskachapters.dtd"> -->
+<Chapters>
+  <EditionEntry>
+    <EditionUID>27662</EditionUID>
+    <ChapterAtom>
+      <ChapterUID>10</ChapterUID>
+      <ChapterTimeStart>00:00:00.000000000</ChapterTimeStart>
+      <ChapterDisplay>
+        <ChapterString>Ishi Okoshi Parte A</ChapterString>
+        <ChapLanguageIETF>en</ChapLanguageIETF>
+        <ChapterLanguage>por</ChapterLanguage>
+      </ChapterDisplay>
+    </ChapterAtom>
+    <ChapterAtom>
+      <ChapterUID>713040</ChapterUID>
+      <ChapterTimeStart>00:11:47.624000000</ChapterTimeStart>
+      <ChapterDisplay>
+        <ChapterString>Ishi Okoshi Parte B</ChapterString>
+        <ChapLanguageIETF>en</ChapLanguageIETF>
+        <ChapterLanguage>por</ChapterLanguage>
+      </ChapterDisplay>
+    </ChapterAtom>
+    <ChapterAtom>
+      <ChapterUID>1390550</ChapterUID>
+      <ChapterTimeStart>00:23:05.134000000</ChapterTimeStart>
+      <ChapterDisplay>
+        <ChapterString>Ayashiki Raihousha Parte A</ChapterString>
+        <ChapLanguageIETF>en</ChapLanguageIETF>
+        <ChapterLanguage>por</ChapterLanguage>
+      </ChapterDisplay>
+    </ChapterAtom>
+    <ChapterAtom>
+      <ChapterUID>1993060</ChapterUID>
+      <ChapterTimeStart>00:33:07.652000000</ChapterTimeStart>
+      <ChapterDisplay>
+        <ChapterString>Ayashiki Raihousha Parte B</ChapterString>
+        <ChapLanguageIETF>en</ChapLanguageIETF>
+        <ChapterLanguage>por</ChapterLanguage>
+      </ChapterDisplay>
+    </ChapterAtom>
+    <ChapterAtom>
+      <ChapterUID>2775100</ChapterUID>
+      <ChapterTimeStart>00:46:09.684000000</ChapterTimeStart>
+      <ChapterDisplay>
+        <ChapterString>Encerramento</ChapterString>
+        <ChapLanguageIETF>en</ChapLanguageIETF>
+        <ChapterLanguage>por</ChapterLanguage>
+      </ChapterDisplay>
+    </ChapterAtom>
+  </EditionEntry>
+</Chapters>

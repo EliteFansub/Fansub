@@ -1,0 +1,56 @@
+﻿<?xml version="1.0"?>
+<!-- <!DOCTYPE Chapters SYSTEM "matroskachapters.dtd"> -->
+<Chapters>
+  <EditionEntry>
+    <EditionUID>332006113</EditionUID>
+    <EditionFlagDefault>1</EditionFlagDefault>
+    <EditionFlagOrdered>0</EditionFlagOrdered>
+    <EditionFlagHidden>0</EditionFlagHidden>
+    <ChapterAtom>
+      <ChapterUID>2072058229</ChapterUID>
+      <ChapterTimeStart>00:00:00.000000000</ChapterTimeStart>
+      <ChapterDisplay>
+        <ChapterString>Abertura</ChapterString>
+        <ChapterLanguage>por</ChapterLanguage>
+        <ChapLanguageIETF>pt</ChapLanguageIETF>
+        <ChapterCountry>br</ChapterCountry>
+      </ChapterDisplay>
+    </ChapterAtom>
+    <ChapterAtom>
+      <ChapterUID>1269065895</ChapterUID>
+      <ChapterTimeStart>00:01:31.049000000</ChapterTimeStart>
+      <ChapterDisplay>
+        <ChapterString>Parte A</ChapterString>
+        <ChapterLanguage>por</ChapterLanguage>
+        <ChapLanguageIETF>pt</ChapLanguageIETF>
+      </ChapterDisplay>
+    </ChapterAtom>
+    <ChapterAtom>
+      <ChapterUID>1396463978</ChapterUID>
+      <ChapterTimeStart>00:11:17.093000000</ChapterTimeStart>
+      <ChapterDisplay>
+        <ChapterString>Parte B</ChapterString>
+        <ChapterLanguage>por</ChapterLanguage>
+        <ChapLanguageIETF>pt</ChapLanguageIETF>
+      </ChapterDisplay>
+    </ChapterAtom>
+    <ChapterAtom>
+      <ChapterUID>97426666</ChapterUID>
+      <ChapterTimeStart>00:22:06.325000000</ChapterTimeStart>
+      <ChapterDisplay>
+        <ChapterString>Encerramento</ChapterString>
+        <ChapterLanguage>por</ChapterLanguage>
+        <ChapLanguageIETF>pt</ChapLanguageIETF>
+      </ChapterDisplay>
+    </ChapterAtom>
+    <ChapterAtom>
+      <ChapterUID>102848653</ChapterUID>
+      <ChapterTimeStart>00:23:36.081000000</ChapterTimeStart>
+      <ChapterDisplay>
+        <ChapterString>Prévia</ChapterString>
+        <ChapterLanguage>por</ChapterLanguage>
+        <ChapLanguageIETF>pt</ChapLanguageIETF>
+      </ChapterDisplay>
+    </ChapterAtom>
+  </EditionEntry>
+</Chapters>
