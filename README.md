@@ -8,4 +8,4 @@ Subtitles, Fonts and Chapters from Elite Fansub (Brazilian Fansub).
 
 ## Download
 
-- **[Full Content](https://github.com/EliteFansubBR/Fansub/archive/refs/heads/main.zip)**
+- **[Full Content](https://github.com/EliteFansub/Fansub/archive/refs/heads/main.zip)**
