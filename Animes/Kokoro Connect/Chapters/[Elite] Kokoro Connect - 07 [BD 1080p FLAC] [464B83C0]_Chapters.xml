@@ -1,0 +1,57 @@
+﻿<?xml version="1.0"?>
+<!-- <!DOCTYPE Chapters SYSTEM "matroskachapters.dtd"> -->
+<Chapters>
+  <EditionEntry>
+    <EditionFlagHidden>0</EditionFlagHidden>
+    <EditionFlagDefault>0</EditionFlagDefault>
+    <EditionUID>469692351</EditionUID>
+    <ChapterAtom>
+      <ChapterUID>480664716</ChapterUID>
+      <ChapterTimeStart>00:00:00.000000000</ChapterTimeStart>
+      <ChapterDisplay>
+        <ChapterString>Prólogo</ChapterString>
+        <ChapterLanguage>por</ChapterLanguage>
+      </ChapterDisplay>
+    </ChapterAtom>
+    <ChapterAtom>
+      <ChapterUID>688374181</ChapterUID>
+      <ChapterTimeStart>00:00:22.022000000</ChapterTimeStart>
+      <ChapterDisplay>
+        <ChapterString>Abertura</ChapterString>
+        <ChapterLanguage>por</ChapterLanguage>
+      </ChapterDisplay>
+    </ChapterAtom>
+    <ChapterAtom>
+      <ChapterUID>367474070</ChapterUID>
+      <ChapterTimeStart>00:01:52.029000000</ChapterTimeStart>
+      <ChapterDisplay>
+        <ChapterString>Parte A</ChapterString>
+        <ChapterLanguage>por</ChapterLanguage>
+      </ChapterDisplay>
+    </ChapterAtom>
+    <ChapterAtom>
+      <ChapterUID>3188632977</ChapterUID>
+      <ChapterTimeStart>00:11:05.039000000</ChapterTimeStart>
+      <ChapterDisplay>
+        <ChapterString>Parte B</ChapterString>
+        <ChapterLanguage>por</ChapterLanguage>
+      </ChapterDisplay>
+    </ChapterAtom>
+    <ChapterAtom>
+      <ChapterUID>2544845452</ChapterUID>
+      <ChapterTimeStart>00:21:50.059000000</ChapterTimeStart>
+      <ChapterDisplay>
+        <ChapterString>Prévia</ChapterString>
+        <ChapterLanguage>por</ChapterLanguage>
+      </ChapterDisplay>
+    </ChapterAtom>
+    <ChapterAtom>
+      <ChapterUID>3201252237</ChapterUID>
+      <ChapterTimeStart>00:22:07.451000000</ChapterTimeStart>
+      <ChapterDisplay>
+        <ChapterString>Encerramento</ChapterString>
+        <ChapterLanguage>por</ChapterLanguage>
+      </ChapterDisplay>
+    </ChapterAtom>
+  </EditionEntry>
+</Chapters>
