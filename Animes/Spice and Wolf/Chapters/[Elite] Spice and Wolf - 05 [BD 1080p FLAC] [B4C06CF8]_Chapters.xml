@@ -1,0 +1,57 @@
+﻿<?xml version="1.0"?>
+<!-- <!DOCTYPE Chapters SYSTEM "matroskachapters.dtd"> -->
+<Chapters>
+  <EditionEntry>
+    <EditionUID>13868827401251974287</EditionUID>
+    <ChapterAtom>
+      <ChapterTimeStart>00:00:00.000000000</ChapterTimeStart>
+      <ChapterUID>14566460203736786305</ChapterUID>
+      <ChapterDisplay>
+        <ChapterString>Abertura - Tabi no Tochuu</ChapterString>
+        <ChapterLanguage>por</ChapterLanguage>
+        <ChapterCountry>br</ChapterCountry>
+        <ChapLanguageIETF>pt-BR</ChapLanguageIETF>
+      </ChapterDisplay>
+    </ChapterAtom>
+    <ChapterAtom>
+      <ChapterTimeStart>00:01:30.006577777</ChapterTimeStart>
+      <ChapterUID>12200384821936655000</ChapterUID>
+      <ChapterDisplay>
+        <ChapterString>Parte A</ChapterString>
+        <ChapterLanguage>por</ChapterLanguage>
+        <ChapterCountry>br</ChapterCountry>
+        <ChapLanguageIETF>pt-BR</ChapLanguageIETF>
+      </ChapterDisplay>
+    </ChapterAtom>
+    <ChapterAtom>
+      <ChapterTimeStart>00:11:32.024666666</ChapterTimeStart>
+      <ChapterUID>12794180730704646044</ChapterUID>
+      <ChapterDisplay>
+        <ChapterString>Parte B</ChapterString>
+        <ChapterLanguage>por</ChapterLanguage>
+        <ChapterCountry>br</ChapterCountry>
+        <ChapLanguageIETF>pt-BR</ChapLanguageIETF>
+      </ChapterDisplay>
+    </ChapterAtom>
+    <ChapterAtom>
+      <ChapterTimeStart>00:22:09.995333333</ChapterTimeStart>
+      <ChapterUID>14403064581662075285</ChapterUID>
+      <ChapterDisplay>
+        <ChapterString>Encerramento - Ringo Biyori</ChapterString>
+        <ChapterLanguage>por</ChapterLanguage>
+        <ChapterCountry>br</ChapterCountry>
+        <ChapLanguageIETF>pt-BR</ChapLanguageIETF>
+      </ChapterDisplay>
+    </ChapterAtom>
+    <ChapterAtom>
+      <ChapterTimeStart>00:23:40.001911111</ChapterTimeStart>
+      <ChapterUID>3895713071145645198</ChapterUID>
+      <ChapterDisplay>
+        <ChapterString>Prévia</ChapterString>
+        <ChapterLanguage>por</ChapterLanguage>
+        <ChapterCountry>br</ChapterCountry>
+        <ChapLanguageIETF>pt-BR</ChapLanguageIETF>
+      </ChapterDisplay>
+    </ChapterAtom>
+  </EditionEntry>
+</Chapters>

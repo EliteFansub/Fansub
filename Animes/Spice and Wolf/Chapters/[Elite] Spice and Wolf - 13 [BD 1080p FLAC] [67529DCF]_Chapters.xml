@@ -1,0 +1,47 @@
+﻿<?xml version="1.0"?>
+<!-- <!DOCTYPE Chapters SYSTEM "matroskachapters.dtd"> -->
+<Chapters>
+  <EditionEntry>
+    <EditionUID>1318660324892336520</EditionUID>
+    <ChapterAtom>
+      <ChapterTimeStart>00:00:00.000000000</ChapterTimeStart>
+      <ChapterUID>3890833446627115910</ChapterUID>
+      <ChapterDisplay>
+        <ChapterString>Abertura - Tabi no Tochuu</ChapterString>
+        <ChapterLanguage>por</ChapterLanguage>
+        <ChapterCountry>br</ChapterCountry>
+        <ChapLanguageIETF>pt-BR</ChapLanguageIETF>
+      </ChapterDisplay>
+    </ChapterAtom>
+    <ChapterAtom>
+      <ChapterTimeStart>00:01:30.007399999</ChapterTimeStart>
+      <ChapterUID>15747087675651957121</ChapterUID>
+      <ChapterDisplay>
+        <ChapterString>Parte A</ChapterString>
+        <ChapterLanguage>por</ChapterLanguage>
+        <ChapterCountry>br</ChapterCountry>
+        <ChapLanguageIETF>pt-BR</ChapLanguageIETF>
+      </ChapterDisplay>
+    </ChapterAtom>
+    <ChapterAtom>
+      <ChapterTimeStart>00:08:48.987599999</ChapterTimeStart>
+      <ChapterUID>4706577813689969341</ChapterUID>
+      <ChapterDisplay>
+        <ChapterString>Parte B</ChapterString>
+        <ChapterLanguage>por</ChapterLanguage>
+        <ChapterCountry>br</ChapterCountry>
+        <ChapLanguageIETF>pt-BR</ChapLanguageIETF>
+      </ChapterDisplay>
+    </ChapterAtom>
+    <ChapterAtom>
+      <ChapterTimeStart>00:22:08.411222222</ChapterTimeStart>
+      <ChapterUID>13710971027743472303</ChapterUID>
+      <ChapterDisplay>
+        <ChapterString>Encerramento - Tabi no Tochuu</ChapterString>
+        <ChapterLanguage>por</ChapterLanguage>
+        <ChapterCountry>br</ChapterCountry>
+        <ChapLanguageIETF>pt-BR</ChapLanguageIETF>
+      </ChapterDisplay>
+    </ChapterAtom>
+  </EditionEntry>
+</Chapters>
