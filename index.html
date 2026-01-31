@@ -1,0 +1,335 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>Elite Fansub | Repository</title>
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;600;700&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
+
+    <style>
+        :root {
+            --bg: #0b0e14;
+            --surface: #161b22;
+            --accent: #3873f4;
+            --accent-hover: #3b82f6;
+            --text-main: #f0f6fc;
+            --text-muted: #8b949e;
+            --border: #30363d;
+            --card-shadow: 0 8px 32px rgba(0, 0, 0, 0.4);
+        }
+
+        * { 
+            box-sizing: border-box; 
+            transition: all 0.2s ease-in-out;
+        }
+
+        body {
+            margin: 0;
+            font-family: 'Inter', sans-serif;
+            background: var(--bg);
+            background-image: radial-gradient(circle at top right, #002f71 0%, #0b0e14 40%);
+            color: var(--text-main);
+            line-height: 1.6;
+            min-height: 100vh;
+        }
+
+        .container {
+            max-width: 1000px;
+            margin: auto;
+            padding: 40px 20px;
+        }
+
+        /* --- Header --- */
+        header {
+            text-align: center;
+            margin-bottom: 50px;
+        }
+
+        h1 {
+            font-size: 3rem;
+            font-weight: 800;
+            margin-bottom: 10px;
+            background: linear-gradient(to right, #fff, var(--accent));
+            -webkit-background-clip: text;
+            -webkit-text-fill-color: transparent;
+            letter-spacing: -1px;
+        }
+
+        .subtitle {
+            color: var(--text-muted);
+            font-size: 1.1rem;
+        }
+
+        /* --- Seção Sobre --- */
+        .info-panel {
+            background: rgba(22, 27, 34, 0.6);
+            backdrop-filter: blur(10px);
+            border: 1px solid var(--border);
+            border-radius: 20px;
+            padding: 24px;
+            margin-bottom: 40px;
+        }
+
+        .info-panel h2 {
+            margin-top: 0;
+            font-size: 1.25rem;
+            display: flex;
+            align-items: center;
+            gap: 10px;
+        }
+
+        .links-grid {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+            gap: 15px;
+            margin-top: 20px;
+        }
+
+        .btn-link {
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            gap: 10px;
+            padding: 12px;
+            background: var(--surface);
+            border: 1px solid var(--border);
+            border-radius: 12px;
+            color: var(--text-main);
+            text-decoration: none;
+            font-weight: 500;
+            font-size: 0.9rem;
+        }
+
+        .btn-link:hover {
+            border-color: var(--accent);
+            background: rgba(58, 85, 237, 0.1);
+            transform: translateY(-2px);
+        }
+
+        .btn-download-all {
+            background: var(--accent);
+            border: none;
+        }
+
+        .btn-download-all:hover {
+            background: var(--accent-hover);
+            color: white;
+        }
+
+        /* --- Search --- */
+        .search-wrapper {
+            position: relative;
+            margin-bottom: 30px;
+        }
+
+        .search-wrapper i {
+            position: absolute;
+            left: 20px;
+            top: 50%;
+            transform: translateY(-50%);
+            color: var(--text-muted);
+        }
+
+        .search-box input {
+            width: 100%;
+            padding: 18px 18px 18px 55px;
+            font-size: 1.1rem;
+            border-radius: 16px;
+            border: 2px solid var(--border);
+            background: var(--surface);
+            color: var(--text-main);
+            outline: none;
+        }
+
+        .search-box input:focus {
+            border-color: var(--accent);
+            box-shadow: 0 0 0 4px rgba(124, 58, 237, 0.15);
+        }
+
+        /* --- Grid de Cards --- */
+        .grid {
+            display: grid;
+            grid-template-columns: repeat(auto-fill, minmax(280px, 1fr));
+            gap: 20px;
+        }
+
+        .card {
+            background: var(--surface);
+            border: 1px solid var(--border);
+            border-radius: 18px;
+            padding: 24px;
+            display: flex;
+            flex-direction: column;
+            justify-content: space-between;
+            position: relative;
+            overflow: hidden;
+        }
+
+        .card::before {
+            content: "";
+            position: absolute;
+            top: 0; left: 0; width: 4px; height: 100%;
+            background: var(--accent);
+            opacity: 0;
+        }
+
+        .card:hover {
+            border-color: var(--accent);
+            transform: translateY(-5px);
+            box-shadow: var(--card-shadow);
+        }
+
+        .card:hover::before { opacity: 1; }
+
+        .card h3 {
+            margin: 0 0 15px;
+            font-size: 1.1rem;
+            font-weight: 600;
+            color: var(--text-main);
+        }
+
+        .download-btn {
+            display: inline-flex;
+            align-items: center;
+            gap: 8px;
+            color: var(--accent);
+            text-decoration: none;
+            font-weight: 700;
+            font-size: 0.85rem;
+            text-transform: uppercase;
+            letter-spacing: 0.5px;
+        }
+
+        .download-btn:hover {
+            color: var(--accent-hover);
+        }
+
+        footer {
+            margin-top: 80px;
+            padding-bottom: 40px;
+            text-align: center;
+            color: var(--text-muted);
+            font-size: 0.85rem;
+            border-top: 1px solid var(--border);
+            padding-top: 20px;
+        }
+
+        /* Animação de entrada */
+        @keyframes fadeIn {
+            from { opacity: 0; transform: translateY(10px); }
+            to { opacity: 1; transform: translateY(0); }
+        }
+
+        .card { animation: fadeIn 0.4s ease forwards; }
+
+        /* Mobile Adjustments */
+        @media (max-width: 600px) {
+            h1 { font-size: 2.2rem; }
+            .container { padding: 20px; }
+        }
+    </style>
+</head>
+
+<body>
+<div class="container">
+    <header>
+        <h1>Elite Fansub</h1>
+        <p class="subtitle">Legendas, Fontes e Capítulos • PT-BR</p>
+    </header>
+
+    <div class="info-panel">
+        <h2><i class="fas fa-info-circle"></i> Acesse:</h2>        
+        <div class="links-grid">
+            <a href="https://elite.fansubs.com.br/" target="_blank" class="btn-link">
+                <i class="fas fa-globe"></i> Site Oficial
+            </a>
+            <a href="https://nyaa.si/user/elitesub" target="_blank" class="btn-link">
+                <i class="fas fa-magnet"></i> Nyaa Tracker
+            </a>
+            <a href="https://tracker.uniotaku.com/teams-view.php?id=42" target="_blank" class="btn-link">
+                <i class="fas fa-broadcast-tower"></i> Uniotaku
+            </a>
+            <a href="https://github.com/EliteFansub/Fansub" target="_blank" class="btn-link">
+              <i class="fas fa-globe"></i> Github
+            </a>
+        </div>
+    </div>
+
+    <div class="info-panel">
+      <div class="links-grid" style="margin-top: 0;">
+          <a href="https://github.com/EliteFansub/Fansub/archive/refs/heads/main.zip" class="btn-link btn-download-all">
+              <i class="fas fa-file-archive"></i> Download de Tudo (.ZIP)
+          </a>
+      </div>
+  </div>
+
+    <div class="search-wrapper">
+        <div class="search-box">
+            <i class="fas fa-search"></i>
+            <input type="text" id="search" placeholder="Buscar..." />
+        </div>
+    </div>
+
+    <div id="list" class="grid">
+        </div>
+
+    <footer>
+        <p>© <script>document.write(new Date().getFullYear())</script> Elite Fansub</p>
+    </footer>
+</div>
+
+<script>
+let allZips = [];
+
+// Simulação ou fetch real do data.json
+fetch('data.json')
+  .then(r => r.json())
+  .then(zips => {
+    allZips = zips;
+    render(allZips);
+  })
+  .catch(err => {
+    console.error("Erro ao carregar data.json:", err);
+    // Fallback para teste visual caso o json não exista localmente
+    // allZips = [{title: "Exemplo Anime", path: "#"}]; 
+    // render(allZips);
+  });
+
+function render(items) {
+    const list = document.getElementById('list');
+    list.innerHTML = '';
+
+    if (!items.length) {
+        list.innerHTML = `
+            <div style="grid-column: 1/-1; text-align: center; padding: 40px; color: var(--text-muted);">
+                <i class="fas fa-ghost" style="font-size: 3rem; margin-bottom: 10px;"></i>
+                <p>Nenhum resultado encontrado para sua busca.</p>
+            </div>`;
+        return;
+    }
+
+    items.forEach((z, index) => {
+        const card = document.createElement('div');
+        card.className = 'card';
+        card.style.animationDelay = `${index * 0.05}s`;
+
+        card.innerHTML = `
+            <h3>${z.title}</h3>
+            <a href="${encodeURI(z.path)}" download class="download-btn">
+                <i class="fas fa-cloud-download-alt"></i> Baixar Pacote
+            </a>
+        `;
+
+        list.appendChild(card);
+    });
+}
+
+document.getElementById('search').addEventListener('input', e => {
+    const q = e.target.value.trim().toLowerCase();
+    const filtered = allZips.filter(z => z.title.toLowerCase().includes(q));
+    render(filtered);
+});
+</script>
+</body>
+</html>
