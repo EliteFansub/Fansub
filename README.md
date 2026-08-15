@@ -6,11 +6,7 @@ Subtitles, Fonts and Chapters from Elite Fansub (Brazilian Fansub).
 - **[Nyaa Tracker](https://nyaa.si/user/elitesub)**
 - **[Uniotaku Tracker](https://tracker.uniotaku.com/teams-view.php?id=42)**
 
-## Download
-
-- **[Full Content](https://github.com/EliteFansub/Fansub/archive/refs/heads/main.zip)**
-
-## Repository Website
+## Repository Website - Download Here
 
 - **[https://elitefansub.github.io/Fansub/](https://elitefansub.github.io/Fansub/)**
 
